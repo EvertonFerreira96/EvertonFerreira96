@@ -9,5 +9,26 @@
     :email:	ferreira.everton@icloud.com <br>
     :art: Portfolio: https://evertonferreira.dev.br <br>
     :briefcase: LinkedIn: https://linkedin.com/in/EvertonFerreira96 <br>
+
+
+
+
+
+
+
+
+
+    :
+    :
+    
+:
+    :
+    :
+    :
+    :
+    :
+    :
+    :
+    
   </samp>
 </p>
